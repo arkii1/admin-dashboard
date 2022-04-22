@@ -1,7 +1,7 @@
 {
   "name": "admin-dashboard",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://arkii1.github.io/admin-dashboard",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
