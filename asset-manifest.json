@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/https//arkii1.github.io/admin-dashboard/static/css/main.a493561a.css",
+    "main.js": "/https//arkii1.github.io/admin-dashboard/static/js/main.68cbaa58.js",
+    "static/media/OpenSans.ttf": "/https//arkii1.github.io/admin-dashboard/static/media/OpenSans.a42bbe687810bdc6e9e8.ttf",
+    "static/media/Roboto.ttf": "/https//arkii1.github.io/admin-dashboard/static/media/Roboto.8be2d1487420548b3b8d.ttf",
+    "static/media/koala_avatar.svg": "/https//arkii1.github.io/admin-dashboard/static/media/koala_avatar.587cf72a37b1231c52808d1bf2ac77b1.svg",
+    "static/media/cat_avatar.svg": "/https//arkii1.github.io/admin-dashboard/static/media/cat_avatar.6e138bd0019da9aa87bcd666ce4bcefb.svg",
+    "static/media/rhino_avatar.svg": "/https//arkii1.github.io/admin-dashboard/static/media/rhino_avatar.1035fd404575db87a15dee4dedb133b6.svg",
+    "static/media/octopus_avatar.svg": "/https//arkii1.github.io/admin-dashboard/static/media/octopus_avatar.f74cda2c45b375bea5774881695ec3ae.svg",
+    "index.html": "/https//arkii1.github.io/admin-dashboard/index.html",
+    "main.a493561a.css.map": "/https//arkii1.github.io/admin-dashboard/static/css/main.a493561a.css.map",
+    "main.68cbaa58.js.map": "/https//arkii1.github.io/admin-dashboard/static/js/main.68cbaa58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a493561a.css",
+    "static/js/main.68cbaa58.js"
+  ]
+}
