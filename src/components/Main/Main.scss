@@ -1,0 +1,28 @@
+.main {
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
+    background-color: transparent;
+    display: grid;
+    padding: 3rem;
+    gap: 2rem;
+    grid-template-rows: 1fr 1fr;
+    overflow-y: auto;
+}
+
+@media screen and (max-width: 1499px) {
+    .main {
+        grid-template-columns: 3fr 1fr;
+    }
+}
+
+@media screen and (max-width: 1999px) and (min-width: 1500px) {
+    .main {
+        grid-template-columns: 6fr 1fr;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .main {
+        grid-template-columns: 9fr 1fr;
+    }
+}

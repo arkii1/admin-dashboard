@@ -1,0 +1,24 @@
+@import "./varaibles.scss";
+
+.avatar--small {
+    height: 4rem;
+}
+
+.avatar--medium {
+    height: 6rem;
+}
+
+.app {
+	height: 100vh;
+	width: 100vw;
+	overflow: clip;
+    display: grid;
+    grid-template-columns: max-content 3fr 1fr;
+    grid-template-rows: max-content 2fr 2fr;
+    background-color: $c-grey;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+}
+
+.projects__header {
+    font-size: 2rem;
+}

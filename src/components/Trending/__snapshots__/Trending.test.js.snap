@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="trending"
+>
+  <h1
+    className="trending__header"
+  >
+    Trending
+  </h1>
+  <div
+    className="trending__items-container"
+  >
+    <div
+      className="trending__item"
+    >
+      <img
+        alt=""
+        className="avatar--small"
+        src="koala_avatar.svg"
+      />
+      <div
+        className="trending__item__text-div"
+      >
+        <h2
+          className="trending__item__header"
+        >
+          @tegan
+        </h2>
+        <p
+          className="trending__item__p"
+        >
+          World Peace Builder
+        </p>
+      </div>
+    </div>
+    <div
+      className="trending__item"
+    >
+      <img
+        alt=""
+        className="avatar--small"
+        src="cat_avatar.svg"
+      />
+      <div
+        className="trending__item__text-div"
+      >
+        <h2
+          className="trending__item__header"
+        >
+          @morgan
+        </h2>
+        <p
+          className="trending__item__p"
+        >
+          Super Cool Project
+        </p>
+      </div>
+    </div>
+    <div
+      className="trending__item"
+    >
+      <img
+        alt=""
+        className="avatar--small"
+        src="rhino_avatar.svg"
+      />
+      <div
+        className="trending__item__text-div"
+      >
+        <h2
+          className="trending__item__header"
+        >
+          @kendall
+        </h2>
+        <p
+          className="trending__item__p"
+        >
+          Life Changing App
+        </p>
+      </div>
+    </div>
+    <div
+      className="trending__item"
+    >
+      <img
+        alt=""
+        className="avatar--small"
+        src="octopus_avatar.svg"
+      />
+      <div
+        className="trending__item__text-div"
+      >
+        <h2
+          className="trending__item__header"
+        >
+          @alex
+        </h2>
+        <p
+          className="trending__item__p"
+        >
+          No Traffic Maker
+        </p>
+      </div>
+    </div>
+    <a
+      className="trending__avatar-credit"
+      href="https://www.vecteezy.com/free-vector/animal-avatar"
+    >
+      Animal Avatar Vectors by Vecteezy
+    </a>
+  </div>
+</div>
+`;
